@@ -39,6 +39,26 @@ let b = 20;
 console.log(a + b);
 ```
 
+```php
+<?php 
+$name = "Musharof Hossain";
+
+echo $name;
+
+?>
+```
+
+```html
+<html>
+  <head>
+    <title>Hello world</title>
+  </head>
+  <body>
+    <p>This is a paragraph<p>
+  </body>
+</html>
+```
+
 ---
 
 To run node js code you have to execute terminal command `node main.js`
